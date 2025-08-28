@@ -98,6 +98,8 @@ InitTestScene*.unity*
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
+*.meta
+
 # ==== Build 산출물(컴파일 결과) ====
 /Debug/
 /Release/
@@ -120,4 +122,4 @@ InitTestScene*.unity*
 *.gcov
 
 *.launch
-.metadata/
+.metadata/"Unity/Assets/Car_Agent/results/" 
